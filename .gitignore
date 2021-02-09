@@ -1,0 +1,42 @@
+/*env*/
+/output/
+/dist/
+/build/
+/*.egg-info/
+__pycache__/
+/out/
+
+*#*
+*~
+*.py[cod]
+
+.*.swp
+.AppleDouble
+
+# C extensions
+*.so
+
+# Installer logs
+pip-log.txt
+
+# Unit test / coverage reports
+.coverage
+.tox
+nosetests.xml
+
+# Translations
+*.mo
+
+#Eclipse
+/.settings
+.pydevproject
+.project
+.settings/
+
+#Pycharm
+.idea/
+
+# VSCode
+.vscode/
+
+gservice-account-credentials.json

@@ -1,0 +1,10 @@
+[MESSAGES CONTROL]
+disable=
+    missing-docstring,
+    bad-continuation,
+    line-too-long
+
+good-names=a,b,c,f,i,j,k,v,x,y,z,getConfig,getLogger
+
+[master]
+extension-pkg-whitelist = pydantic
